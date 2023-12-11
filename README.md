@@ -12,3 +12,6 @@ This is my first package.
 ```bash
 $ pip install git+https://github.com/heini-phys-chem/mypackage
 ```
+
+# Runnning
+No idea, not my package xD
