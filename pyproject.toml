@@ -33,6 +33,11 @@ classifiers = [
     'Operating System :: MacOS',
 ]
 
+dependencies = [
+  "httpx",
+  "gidgethub>4.0.0",
+]
+
 [project.urls]
 homepage = "https://numpy.org"
 documentation = "https://numpy.org/doc/"
@@ -41,11 +46,6 @@ download = "https://pypi.org/project/numpy/#files"
 tracker = "https://github.com/numpy/numpy/issues"
 "release notes" = "https://numpy.org/doc/stable/release"
 
-[project]
-dependencies = [
-  "httpx",
-  "gidgethub>4.0.0",
-]
 
 [project.optional-dependencies]
 dev = [
