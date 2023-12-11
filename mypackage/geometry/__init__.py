@@ -1,1 +1,1 @@
-from .geometry import Line, Point
+from .geometry import Line, Poin  # noqa: F401
