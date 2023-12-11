@@ -1,7 +1,7 @@
 # My first package
 
 <h1 align="center">
-<img src="https://github.com/heini-phys-chem/mypackage/logo/mylogo.png" width="300">
+<img src="https://github.com/heini-phys-chem/mypackage/tree/main/logo/mylogo.png" width="300">
 </h1><br>
 
 This is my first package.
