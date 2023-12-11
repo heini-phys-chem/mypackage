@@ -4,6 +4,8 @@
 <img src="logo/mylogo.png" width="300">
 </h1><br>
 
+[![myPackage](https://mybinder.org/badge_logo.svg)]
+
 This is my first package.
 
 # Installation
