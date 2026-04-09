@@ -45,3 +45,20 @@ source = "https://github.com/numpy/numpy"
 download = "https://pypi.org/project/numpy/#files"
 tracker = "https://github.com/numpy/numpy/issues"
 "release notes" = "https://numpy.org/doc/stable/release"
+
+dependencies = [
+  "httpx",
+  "gidgethub>4.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "bumpver",
+  "pytest",
+  "pytest-cov",
+]
+docs = [
+  "sphinx",
+  "sphinx-rtd-theme",
+]
+
