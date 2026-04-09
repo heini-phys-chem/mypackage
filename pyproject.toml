@@ -64,4 +64,3 @@ docs = [
   "sphinx",
   "sphinx-rtd-theme",
 ]
-
