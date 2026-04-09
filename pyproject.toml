@@ -49,6 +49,7 @@ tracker = "https://github.com/numpy/numpy/issues"
 dependencies = [
   "httpx",
   "gidgethub>4.0.0",
+  "numpy",
 ]
 
 [project.optional-dependencies]
